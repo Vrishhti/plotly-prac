@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Smith",
+      "gender": "Female",
+      "department": "HR",
+      "age": 30,
+      "location": "New York"
+    },
+    {
+      "id": 2,
+      "name": "Bob Johnson",
+      "gender": "Male",
+      "department": "Engineering",
+      "age": 35,
+      "location": "London"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "gender": "Male",
+      "department": "Engineering",
+      "age": 28,
+      "location": "New York"
+    },
+    {
+      "id": 4,
+      "name": "Diana Miller",
+      "gender": "Female",
+      "department": "Sales",
+      "age": 42,
+      "location": "London"
+    },
+    {
+      "id": 5,
+      "name": "Eva Garcia",
+      "gender": "Female",
+      "department": "HR",
+      "age": 29,
+      "location": "Tokyo"
+    },
+     {
+      "id": 6,
+      "name": "Frank Lee",
+      "gender": "Male",
+      "department": "Sales",
+      "age": 38,
+      "location": "London"
+    }
+  ]
+}
