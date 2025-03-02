@@ -6,7 +6,9 @@
       "gender": "Female",
       "department": "HR",
       "age": 30,
-      "location": "New York"
+      "location": "New York",
+      "salary": 60000,
+      "hireYear": 2018
     },
     {
       "id": 2,
@@ -14,7 +16,9 @@
       "gender": "Male",
       "department": "Engineering",
       "age": 35,
-      "location": "London"
+      "location": "London",
+      "salary": 60000,
+      "hireYear": 2016
     },
     {
       "id": 3,
@@ -22,7 +26,9 @@
       "gender": "Male",
       "department": "Engineering",
       "age": 28,
-      "location": "New York"
+      "location": "New York",
+      "salary": 65000,
+      "hireYear": 2020
     },
     {
       "id": 4,
@@ -30,7 +36,9 @@
       "gender": "Female",
       "department": "Sales",
       "age": 42,
-      "location": "London"
+      "location": "London",
+      "salary": 66700,
+      "hireYear": 2013
     },
     {
       "id": 5,
@@ -38,15 +46,19 @@
       "gender": "Female",
       "department": "HR",
       "age": 29,
-      "location": "Tokyo"
+      "location": "Tokyo",
+      "salary": 10000,
+      "hireYear": 2022
     },
-     {
+    {
       "id": 6,
       "name": "Frank Lee",
       "gender": "Male",
       "department": "Sales",
       "age": 38,
-      "location": "London"
+      "location": "London",
+      "salary": 90000,
+      "hireYear": 2010
     }
   ]
 }

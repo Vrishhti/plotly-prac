@@ -1,0 +1,19 @@
+<div class="container mt-4">
+    <h2>Department Salary vs. Years</h2>
+  
+    <div class="mb-3">
+      <label for="departmentInput" class="form-label">Department:</label>
+      <input
+        type="text"
+        id="departmentInput"
+        class="form-control"
+        [(ngModel)]="selectedDepartment"
+      />
+    </div>
+  
+    <button class="btn btn-primary" (click)="generateSalaryLineChart()">
+      Generate Line Chart
+    </button>
+  
+    <div id="salaryLineChart" class="chart-container"></div>
+  </div>
